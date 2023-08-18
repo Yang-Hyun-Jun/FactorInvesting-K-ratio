@@ -11,12 +11,9 @@
 
 *Moment 1M Rebalancing*
 : 단순 변화율 기반 모멘텀을 사용하여 1개월마다 리밸런싱
-MDD: 22.7726
 
 *Moment 12M Rebalancing*
 : 단순 변화율 기반 모멘텀을 사용하여 12개월마다 리밸런싱
-MDD: 21.1788
 
 *Moment 1M Rebalancing*
 : K-ratio 기반 모멘텀을 사용하여 1개월마다 리밸런싱
-MDD: 14.4313
