@@ -19,4 +19,4 @@
 
 ***Moment 1M Rebalancing***
 - K-ratio 기반 모멘텀을 사용하여 1개월마다 리밸런싱
-- MDD: 14.4313
+- MDD: **14.4313**
